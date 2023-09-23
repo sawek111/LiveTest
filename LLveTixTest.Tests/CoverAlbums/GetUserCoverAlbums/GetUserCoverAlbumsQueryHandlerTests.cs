@@ -1,9 +1,9 @@
-﻿using LlveTixTest.CoverAlbums.GetUserCoverAlbums;
-using FluentAssertions;
+﻿using FluentAssertions;
 using LlveTixTest.CoverAlbums;
+using LlveTixTest.CoverAlbums.GetUserCoverAlbums;
 using Moq;
 
-namespace LLveTixTest.Tests.CoverAlbums.GetAllCoverAlbums;
+namespace LLveTixTest.Tests.CoverAlbums.GetUserCoverAlbums;
 
 public class GetUserCoverAlbumsQueryHandlerTests
 {

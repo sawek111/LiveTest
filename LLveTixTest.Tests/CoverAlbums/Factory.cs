@@ -1,7 +1,7 @@
 ﻿using Bogus;
 using LlveTixTest.CoverAlbums;
 
-namespace LLveTixTest.Tests.CoverAlbums.GetAllCoverAlbums;
+namespace LLveTixTest.Tests.CoverAlbums;
 
 public static class Factory
 {
